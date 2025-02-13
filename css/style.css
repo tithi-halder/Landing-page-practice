@@ -126,6 +126,89 @@
 .best_class button:hover{
 	background: teal;
 }
-
+.superior{
+	display: flex;
+	width: 100%;
+	height: auto;
+	background: black;
+	color: white;
+}
+.super_class{
+	padding: 10px;
+	width: 50%;
+	height: auto;
+}
+.super_img{
+	width: 50%;
+	height: auto;
+	padding: 10px;
+}
+.super_img img{
+	width: 300px;
+	height: 200px;
+	border-radius: 50%;
+	float: left;
+}
+.super_class button{
+	background: cyan;
+	color: white;
+	border-radius: 50%;
+	width: 120px;
+	height: 50px;
+}
+.super_class button:hover{
+	background: teal;
+}
+.thums{
+	display: flex;
+	width: 100%;
+	height: auto;
+	padding: 10px;
+}
+.thumb{
+	height: 200px;
+	width: 33%;
+	display: flex;
+}
+.thumb img{
+	width: 100%;
+	height: 200px;
+}
+.thumb img:hover{
+	width: 200%;
+	border: 5px solid red;
+}
+.recom{
+	background: white;
+	text-align: center;
+	padding: 10px;
+}
+.recom h1{
+	font-size: 40px;
+	font-family: arial;
+}
+.recom p{
+	font-size: 20px;
+	text-align: center;
+}
+.recom button{
+	width: 120px;
+	height: 40px;
+	background: olive;
+	border-radius: 40%;
+}
+.recom button:hover{
+	background: blue;
+}
+.contact{
+	background: yellowgreen;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+.footer{
+	text-align: center;
+	padding: 10px;
+}
 
 
